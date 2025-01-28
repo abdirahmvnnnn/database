@@ -1,0 +1,4 @@
+Register a User → http://localhost/myprojects/register.php
+Login → http://localhost/myprojects/index.php
+After login, you should see http://localhost/myprojects/homepage.php
+Logout → http://localhost/myprojects/logout.php
